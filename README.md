@@ -2,16 +2,16 @@
 
 Soy Analista y Desarrollador de software con interés en apps móviles y sistemas web.
 
-## 💻 Tecnologías
+## Tecnologías
 - React Native
 - Python
 - MySQL
 - PHP
 - HTML, CSS, JavaScript
 
-## 🚀 Proyectos destacados
-- [Inventario App](https://github.com/tuusuario/inventario-app)
-- [Portafolio Web](https://github.com/tuusuario/portafolio)
+## Proyectos destacados
+- [Gestion de inventarios](https://github.com/nelson-avellaneda-sanabria/proyecto-react-app)
+- [Calculadora](https://github.com/nelson-avellaneda-sanabria/calculadora)
 
 💬 Contáctame: correo: nelsonavellanedasanabria@gmail.com
                 Telefono:+57 3133816381
