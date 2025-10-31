@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Nelson Avellaneda
 
-<!--
-**nelson-avellaneda-sanabria/Nelson-Avellaneda-Sanabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Analista y Desarrollador de software con interés en apps móviles y sistemas web.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
+- React Native
+- Python
+- MySQL
+- PHP
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- [Inventario App](https://github.com/tuusuario/inventario-app)
+- [Portafolio Web](https://github.com/tuusuario/portafolio)
+
+💬 Contáctame: correo: nelsonavellanedasanabria@gmail.com
+                Telefono:+57 3133816381
