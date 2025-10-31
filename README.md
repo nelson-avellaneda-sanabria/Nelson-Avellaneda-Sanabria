@@ -19,6 +19,9 @@ Me gusta desarrollar **aplicaciones móviles** y **sistemas web** conectados a b
 Aplicación para la gestión de inventario desarrollada con React Native y MySQL para ejecucion en dispositivos moviles.  
 Permite visualizar, editar y registrar productos de forma dinámica.
 
+### [Mi primer proyecto (calculadora)](https://github.com/nelson-avellaneda-sanabria/calculadora)
+Sistema de calcualdora basica, desplegado en vercel y completamente funcional.
+
 ---
 
 ## Objetivo profesional
